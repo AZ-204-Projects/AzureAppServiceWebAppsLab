@@ -1,0 +1,22 @@
+# Generated configuration with secrets
+app-config.ps1
+
+# Deployment artifacts
+*.zip
+deployment.zip
+
+# PowerShell artifacts
+*.ps1.bak
+
+# Azure CLI artifacts
+.azure/
+
+# IDE files
+.vscode/
+.vs/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
